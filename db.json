@@ -1,0 +1,34 @@
+{
+    "posts":[
+        
+            {
+              "user": "Can candle",
+              "title": "frangences, insence, Packaging",
+              "price": "20,00",
+              "img": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-featured.png",
+              "id": "1"
+            },
+            {
+              "user": "wood candle",
+              "title": "frangences, insence, Packaging",
+              "price": "20,00",
+              "img": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-featured.jpg",
+              "id": "2"
+            },
+            {
+              "user": "gift candle",
+              "title": "frangences, insence, Packaging",
+              "price": "20,00",
+              "img": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-img-216.jpg",
+              "id": "3"
+            },
+            {
+              "user": "dream candle",
+              "title": "frangences, insence, Packaging",
+              "price": "20,00",
+              "img": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-test-1.jpg",
+              "id": "4"
+            }
+          ]
+    
+}
